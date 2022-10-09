@@ -1,3 +1,5 @@
-# first-repo
-this is the first  building tutorial
-this is the seconf building tutorial for learning git hub
+# repo
+
+
+this is jay from american embassy
+how are you doing today
